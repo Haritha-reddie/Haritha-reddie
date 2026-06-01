@@ -102,10 +102,10 @@ I'm a Machine Learning Engineer specializing in **production-ready AI systems** 
  | **LinkedIn** | [linkedin.com/in/haritha-24-gurram](https://linkedin.com/in/haritha-24-gurram) |
 
 ### Open to:
-  - 🎯 GenAI & ML opportunities
-  - 🤝 Open source collaborations
-  - 💬 Technical discussions
-  - 📍 Relocation
+   🎯 GenAI & ML opportunities
+   🤝 Open source collaborations
+   💬 Technical discussions
+   📍 Relocation
                
 - </div>
 
