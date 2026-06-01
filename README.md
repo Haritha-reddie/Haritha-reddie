@@ -103,11 +103,14 @@ I'm a Machine Learning Engineer specializing in **production-ready AI systems** 
 
 ### Open to:
    🎯 GenAI & ML opportunities
+   
    🤝 Open source collaborations
+   
    💬 Technical discussions
+   
    📍 Relocation
                
-- </div>
+ </div>
 
    ---
 
