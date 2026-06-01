@@ -47,7 +47,15 @@ I'm a passionate GenAI and Machine Learning Engineer specializing in building an
 ## ✨ Professional Achievements
 
 - Architected production RAG pipelines with hybrid retrieval achieving **40% accuracy improvements**
-- - Built LLM-based automation workflows for financial document processing handling **10K+ monthly transactions**
+- Built LLM-based automation workflows for financial document processing handling **10K+ monthly transactions**
+- - Deployed Generative AI models to production with **99.2% uptime** using Docker & Azure - 
+-  Implemented enterprise-grade data governance with automated quality checks across - oSQL pipelines
+    - - Evaluated LLM outputs using precision, recall, faithfulness metrics with task-specific benchmarks
+      - - Fine-tuned BERT-based transformers achieving **94% accuracy** for text classification & entity recognition
+  - - Deployed Generative AI models to production with **99.2% uptime** using Docker & Azure Cloud
+    - - Implemented enterprise-grade data governance with automated quality checks across SQL/NoSQL pipelines
+      - - Evaluated LLM outputs using precision, recall, faithfulness metrics with task-specific benchmarks
+        - - Fine-tuned BERT-based transformers achieving **94% accuracy** for text classification & entity recognitionmonthly transactions**
   - - Deployed Generative AI models to production with **99.2% uptime** using Docker & Azure Cloud
     - - Implemented enterprise-grade data governance with automated quality checks across SQL/NoSQL pipelines
       - - Evaluated LLM outputs using precision, recall, faithfulness metrics with task-specific benchmarks
