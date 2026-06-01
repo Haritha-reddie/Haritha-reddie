@@ -1,76 +1,79 @@
-# Hi, I'm Haritha Gurram
+ Hi there, I'm Haritha Gurram 👋
 
-**GenAI & ML Engineer** | 3+ Years Enterprise AI | Building Production-Ready Solutions
+ **GenAI & ML Engineer | 3+ Years Enterprise AI | Building Production-Ready Solutions**
 
----
+ ---
 
-## About Me
+ ## 🖇️ Quick Links
 
-I'm a passionate GenAI and Machine Learning Engineer specializing in building and deploying enterprise-scale AI/ML solutions. My expertise spans Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Natural Language Processing, and cloud deployment.
+ - **Portfolio**: https://harithagurram.com
+ - - **LinkedIn**: https://linkedin.com/in/haritha-24-gurram
+   - - **Email**: harithagurram59@gmail.com
+    
+     - ---
 
-**Current Role:** GenAI & ML Engineer @ Citi & IBM  
-**Location:** United States
+     ## 👋 About Me
 
----
+     🎓 **Master's in Computer Science** (In Progress)
+     💼 **ML Engineer** | GenAI & Cloud Certified
+     🔬 **Research Focus**: Large Language Models, RAG Systems, Production AI
+     🌍 **Based in**: United States
 
-## 🎯 Core Expertise
+     I'm a Machine Learning Engineer specializing in **production-ready AI systems** that bridge research and real-world impact. My expertise spans **Large Language Models (LLMs), Retrieval Augmented Generation (RAG), NLP, and cloud deployment** with a relentless focus on **scalability and deployment excellence**.
 
-**Large Language Models & GenAI** | Production RAG pipelines with hybrid retrieval strategies | NLP & Text Analysis | Cloud & DevOps Architecture
+     ---
 
----
+     ## 🏆 Key Achievements
 
-## 💡 Technical Highlights
+     - 🔍 **40% accuracy improvement** in RAG systems with hybrid retrieval strategies
+     - - 🚀 **95% automation** of data pipelines using LLM-based workflows
+       - - ⚡ **99.2% uptime** achieved in production GenAI deployments
+         - - 📊 **10K+ monthly transactions** processed through intelligent document automation
+           - - 💡 **94% accuracy** on text classification with fine-tuned transformers
+            
+             - ---
 
-| Category | Skills |
-|----------|--------|
-| **LLMs & GenAI** | LangChain, LlamaIndex, GPT-4, Llama, Gemini, Transformers, Prompt Engineering |
-| **Data Pipelines** | RAG systems, Vector Databases (Chroma, Chromadb), ETL, Data Quality, Monitoring |
-| **ML Frameworks** | PyTorch, TensorFlow, Scikit-learn, BERT, BioClinicalBERT, XGBoost |
-| **Cloud & DevOps** | Docker, GitHub Actions CI/CD, Azure ML, AWS SageMaker, Kubernetes |
-| **Languages** | Python, JavaScript, SQL |
-| **Tools & Viz** | REST APIs, Jupyter, Pandas, NumPy, Power BI, Tableau, Plotly |
+             ## 🛠️ Technology Arsenal
 
----
+             ### 🐍 Programming Languages
+             - Python, JavaScript, SQL, Java
+            
+             - ### 🤖 AI/ML Frameworks & Libraries
+             - - **LLMs**: LangChain, LlamaIndex, GPT-4, Llama, Gemini, Transformers
+               - - **Data Science**: PyTorch, TensorFlow, Scikit-learn, XGBoost
+                 - - **RAG**: Chroma, Chromadb, FAISS, Vector Databases
+                  
+                   - ### ☁️ Cloud & DevOps
+                   - - AWS, Azure, Google Cloud, Docker, Kubernetes, GitHub Actions, CI/CD
+                    
+                     - ### 📊 Data & Analytics
+                     - - Pandas, NumPy, Power BI, Tableau, Plotly, Jupyter Notebooks
+                      
+                       - ---
 
-## 🚀 Featured Projects
+                       ## 💼 Professional Highlights
 
-**Production RAG Pipeline** — Enterprise-grade RAG system achieving 40% improvement in retrieval accuracy using LangChain, LlamaIndex, and hybrid BM25 + vector retrieval.
+                       - **Production RAG Pipeline**: Enterprise-grade RAG system achieving 40% improvement in retrieval accuracy
+                       - - **LLM Automation Workflows**: Automated financial document processing handling 10K+ monthly transactions
+                         - - **GenAI at Scale**: Deployed models with 99.2% uptime across production environments
+                           - - **Data Governance**: Implemented enterprise-grade quality checks and monitoring
+                             - - **ML Excellence**: Fine-tuned transformers achieving 94% accuracy on text classification tasks
+                              
+                               - ---
 
-**RAG Monitoring & Observability** — Comprehensive production monitoring system with faithfulness, relevancy, and task-specific benchmarks. Achieved 99.2% system uptime.
+                               ## 🎯 Currently Exploring
 
-**Delhi AQI Intelligence App** — ML-powered air quality prediction platform serving 10K+ monthly active users with real-time analytics and predictive modeling.
+                               ✨ Advanced RAG architectures with multimodal retrieval
+                               🔧 Fine-tuning LLMs for domain-specific applications
+                               📈 MLOps best practices and production deployment patterns
+                               🚀 Building scalable AI systems with modern cloud infrastructure
 
-**Local SLM Playground** — Private, offline local language model testing environment. 100% offline with no API keys required. Built with Ollama and LLM evaluation tools.
+                               ---
 
----
+                               ## 📫 Let's Connect
 
-## ✨ Professional Achievements
-
-- Architected production RAG pipelines with hybrid retrieval achieving **40% accuracy improvements**
-- Built LLM-based automation workflows for financial document processing handling **10K+ monthly transactions**
-- - Deployed Generative AI models to production with **99.2% uptime** using Docker & Azure - 
--  Implemented enterprise-grade data governance with automated quality checks across - oSQL pipelines
-    - - Evaluated LLM outputs using precision, recall, faithfulness metrics with task-specific benchmarks
-      - - Fine-tuned BERT-based transformers achieving **94% accuracy** for text classification & entity recognition
-  - - Deployed Generative AI models to production with **99.2% uptime** using Docker & Azure Cloud
-    - - Implemented enterprise-grade data governance with automated quality checks across SQL/NoSQL pipelines
-      - - Evaluated LLM outputs using precision, recall, faithfulness metrics with task-specific benchmarks
-        - - Fine-tuned BERT-based transformers achieving **94% accuracy** for text classification & entity recognitionmonthly transactions**
-  - - Deployed Generative AI models to production with **99.2% uptime** using Docker & Azure Cloud
-    - - Implemented enterprise-grade data governance with automated quality checks across SQL/NoSQL pipelines
-      - - Evaluated LLM outputs using precision, recall, faithfulness metrics with task-specific benchmarks
-        - - Fine-tuned BERT-based transformers achieving **94% accuracy** for text classification & entity recognition
-         
-          - ---
-
-          ## 🎓 Passionate About
-
-          Building scalable, production-ready AI/ML solutions • LLM fine-tuning and prompt engineering • Data quality and responsible AI • DevOps best practices for ML • Open source contributions
-
-          ---
-
-          ## 📧 Let's Connect
-
-          **Email:** harithagurram59@gmail.com | **Phone:** (682) 405-3227 | **LinkedIn:** [linkedin.com/in/haritha-24-gurram](https://www.linkedin.com/in/haritha-24-gurram/)
-
-          **Open to:** GenAI/ML opportunities • Open source collaborations • Technical discussions • Relocation
+                               - **Email**: harithagurram59@gmail.com
+                               - - **Phone**: (682) 405-3227
+                                 - - **LinkedIn**: linkedin.com/in/haritha-24-gurram
+                                  
+                                   - **Open to**: GenAI/ML opportunities • Open source collaborations • Technical discussions • Relocation
